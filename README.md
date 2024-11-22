@@ -66,9 +66,6 @@ maskPrediction("path/to/image.jpg")
 
 The trained model is saved as 'path_to_my_model.h5' and can be loaded for inference.
 
-## License
-
-[Add your license here]
 
 ## Contributing
 
